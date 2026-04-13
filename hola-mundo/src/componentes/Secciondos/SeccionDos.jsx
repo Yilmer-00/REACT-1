@@ -1,5 +1,5 @@
 import React from 'react'
-
+//aqui se ubicara la secciondos del sitio web
 export default function SeccionDos() {
   return (
     <div>

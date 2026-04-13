@@ -1,5 +1,5 @@
 import React from 'react'
-
+//aqui se ubicara el footer del sitio web
 export default function Footer() {
   return (
     <div>

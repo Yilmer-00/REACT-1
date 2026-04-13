@@ -1,5 +1,5 @@
 import React from 'react'
-
+//aqui se ubicara la barra de navegacion
 
 const NavBar = () => {
   return (
@@ -9,6 +9,7 @@ const NavBar = () => {
       <h1 class ="hi">
         hp inc.
       </h1>
+      {/* menu de navegacion principal */}
       <div>
         <ul>
           <li><a href="inicio">Inicio</a></li>

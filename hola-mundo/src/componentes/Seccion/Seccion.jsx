@@ -1,5 +1,7 @@
 import React from 'react'
 
+
+//aqui se ubicara la seccion principal del sitio web
 const Seccion = () => {
   return (
     <div>
