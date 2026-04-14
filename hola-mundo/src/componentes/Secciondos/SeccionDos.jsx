@@ -1,4 +1,6 @@
-import React from 'react'
+//import React from 'react'
+import "./SeccionDos.css";
+
 //aqui se ubicara la secciondos del sitio web
 export default function SeccionDos() {
   return (

@@ -1,4 +1,5 @@
-import React from 'react'
+//import React from 'react'
+import "./Footer.css";
 //aqui se ubicara el footer del sitio web
 export default function Footer() {
   return (

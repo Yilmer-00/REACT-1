@@ -1,0 +1,20 @@
+aside{
+  background-color: rgb(119, 119, 119);
+  padding: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  border-radius: 0 0px 50px 50px;
+  width: 250px;
+  height: 400px;
+  box-shadow: #ffffff 0px 0px 20px;
+  
+}
+.haside{
+    color: white;
+
+}
+.paside{
+    color: rgb(235, 235, 235);
+
+}

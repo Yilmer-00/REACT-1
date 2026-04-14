@@ -1,5 +1,5 @@
-import React from 'react'
-
+//import React from 'react'
+import "./Seccion.css";
 
 //aqui se ubicara la seccion principal del sitio web
 const Seccion = () => {

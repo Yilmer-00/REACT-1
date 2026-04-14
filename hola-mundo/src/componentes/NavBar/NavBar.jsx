@@ -1,4 +1,5 @@
-import React from 'react'
+//import React from 'react'
+import "./NavBar.css";
 //aqui se ubicara la barra de navegacion
 
 const NavBar = () => {

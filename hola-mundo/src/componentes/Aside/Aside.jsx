@@ -1,4 +1,5 @@
-import React from 'react'
+//import React from 'react'
+import "./Aside.css";
 //aqui se ubicara el aside del sitio web
 const Aside = () => {
   return (
