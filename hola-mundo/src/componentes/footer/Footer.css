@@ -1,13 +1,15 @@
 footer{
+
     color: rgb(255, 255, 255);
-    background-color: rgb(119, 119, 119);
-    padding: 10px;
-    text-align: center;
+    background-color: rgb(0, 0, 0);
+    padding: 10px; 
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     border-radius: 0 0px 50px 50px;
-    width: 400px;
-    align-items: center;
+    width: 400px;   
     margin: auto;
-    box-shadow: #ffffff 0px 0px 20px;
+    box-shadow: #1d1d1d 0px 0px 20px;
+}
+.pa{
+    text-align: center;
 }

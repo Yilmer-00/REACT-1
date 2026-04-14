@@ -5,8 +5,8 @@ const Aside = () => {
   return (
     <div>
         <aside>
-            <h2 className='haside'>LOREM</h2>
-            <p className='paside'>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
+            <h2 className='haside'>Dato Curioso</h2>
+            <p className='paside'>Un dato interesante sobre HP Inc. es que su origen se remonta a un pequeño garaje en California, considerado hoy como el lugar de nacimiento de Silicon Valley. Desde ese espacio reducido, la compañía logró evolucionar hasta convertirse en uno de los referentes mundiales en tecnología, demostrando cómo una idea innovadora puede escalar a nivel global.</p>
         </aside>
       
     </div>

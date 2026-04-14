@@ -6,6 +6,7 @@ export default function Footer() {
     <div>
         <footer>
             <p>© 2024 HP Inc. Todos los derechos reservados.</p>
+            <p className="pa">Yilmer</p>
         </footer>
       
     </div>
